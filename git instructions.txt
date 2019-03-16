@@ -1,0 +1,10 @@
+Report:
+Instructions:
+1.create a repo on github with name MAD314-CV--1898334.
+2.clone it into your command using the git clone command.
+3.created a folder into your compueter wuth the name dev
+4.cloned the CV into MAD314-CV--1898334- using git clone command 
+5.checked the status and there is nothing to commit
+6.add the file to queue using git add
+7 using git commit it commits the file in the index to repository
+8.upload the repository to remote repository using git push
